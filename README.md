@@ -2,6 +2,10 @@
 
 シンプルで使いやすい家計管理Webアプリです。ブラウザだけで動作し、データはlocalStorageに保存されます。
 
+## 公開サイト
+
+**[→ アプリを開く](https://takumayellow.github.io/moneymanagement/)**
+
 ## 機能
 
 - **収支の記録**: 支出・収入をカテゴリ付きで記録
